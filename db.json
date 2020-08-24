@@ -1,0 +1,19 @@
+[{
+       "first_name": "Val",
+       "last_name": "Don",
+       "age": 24,
+       "occupation": "Software Engineer"
+   },
+   {
+       "first_name": "Harry",
+       "last_name": "Potter",
+       "age": 30,
+       "occupation": "Wizard"
+   },
+   {
+       "first_name": "Scarlett",
+       "last_name": "Johannsen",
+       "age": 40,
+       "occupation": "Actress"
+   }
+]
